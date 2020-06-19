@@ -28,6 +28,23 @@
 
 		- 3阶深水波
 
+			- Deduction
+
+				- 
+
+					- 
+
+						- 
+						- 
+
+					- 
+					- 
+
+						- 
+						- 
+
+		- 
+
 	- Stokes Drift
 
 		- 推导
@@ -43,6 +60,24 @@
 		- 原工作
 
 			- 原因：反常群速度色散
+			- Coarse Analysis
+
+				- Side-band
+
+					- Dispersion relation
+
+						- cannot be satisfied with constant frequencies
+						- Slow-varying argument
+
+							- 
+							- 
+
+					- Nonlinear coupling between side-band & base
+
+						- resonance → growth
+						- Dispersion detunes the prospective resonance between second-harmonic components of the basic wave motion and the side-band modes
+
+			- Instable condition
 
 		- Fermi–Pasta–Ulam 重现
 
